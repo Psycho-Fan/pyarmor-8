@@ -13,3 +13,4 @@ https://github.com/Psycho-Fan/pyarmor-8/assets/90871967/3b273737-8bc8-40bd-95fc-
 ```bash
 pip3 install psutil colorama
 ```
+[![Linux](https://img.youtube.com/vi/ZIganWDJZ-M/maxresdefault.jpg)](www.youtube.com/watch?v=ZIganWDJZ-M)
